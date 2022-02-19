@@ -1,5 +1,5 @@
 Hola:D
-Mi nombre es Axel y soy un simple estudiante que planea tener un futuro en la programación
+Mi nombre es Axel y soy un estudiante más, que planea tener un futuro en la programación para dedicarme a ello, mantenerme a mi y a una futura familia al igual que disfruto de mi trabajo
 
 Datos sobre mi:
 - Actualmente curso 4to semestre en la PFLC
