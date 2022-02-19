@@ -1,12 +1,12 @@
 Hola:D
 
-Mi nombre es Axel y soy un estudiante más, que planea tener un futuro en la programación para dedicarme a ello, mantenerme a mi y a una futura familia al igual que disfruto de mi trabajo
+Mi nombre es Axel Alán y soy un estudiante más. Planeo tener un futuro en la programación para dedicarme a ello, mantenerme a mi y a una futura familia al igual que disfruto de mi trabajo
 
 Datos sobre mi:
-- Actualmente curso 4to semestre en la PFLC
-- Tengo 16 años
-- En videojuegos siempre uso el mismo nombre, si ves el nombre "Slow Glases" soy yo:D
-- Capacitación: TICS
+- 🔎 Actualmente curso 4to semestre en la PFLC
+- 🎈 Tengo 16 años
+- ⚔ En videojuegos siempre uso el mismo nombre, si ves el nombre "Slow Glases" soy yo:D
+- 🖥 Capacitación: TICS
 
                                                             📖Horario de clases📖
 
