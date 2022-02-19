@@ -2,7 +2,7 @@
 
 Hola:D
 
-Mi nombre es Axel Alán y soy un estudiante más. Planeo tener un futuro en la programación para dedicarme a ello, mantenerme a mi y a una futura familia al igual que disfruto de mi trabajo
+Mi nombre es Axel Alán y soy un estudiante más. Planeo tener un futuro en la programación para dedicarme a ello, mantenerme a mi y a una futura familia al igual que disfrutar de mi trabajo y seguir creciendo tanto física como mentalmente.
 
 
                                                             ⇀ Datos sobre mi: ↼
