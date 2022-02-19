@@ -7,7 +7,7 @@ Datos sobre mi:
 - En videojuegos siempre uso el mismo nombre, si ves el nombre "Slow Glases" soy yo:D
 - Capacitación: TICS
 
-                                                        📖Horario de clases📖
+                                                            📖Horario de clases📖
 
 | Hora/Día           | Lunes                            | Martes                           | Miércoles             | Jueves                           | Viernes     |
 |--------------------|----------------------------------|----------------------------------|-----------------------|----------------------------------|-------------|
