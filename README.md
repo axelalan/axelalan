@@ -5,7 +5,7 @@ Hola:D
 Mi nombre es Axel Alán y soy un estudiante más. Planeo tener un futuro en la programación para dedicarme a ello, mantenerme a mi y a una futura familia al igual que disfrutar de mi trabajo y seguir creciendo tanto física como mentalmente.
 
 
-                                                          ⇀ Datos sobre mi: ↼
+                                                         # ⇀ Datos sobre mi: ↼
 ➼ 🔎 Actualmente curso 4to semestre en la PFLC
 
 ➼ 🎈 Tengo 16 años
